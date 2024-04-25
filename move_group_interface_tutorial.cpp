@@ -113,8 +113,6 @@ int main(int argc, char** argv)
  
   
 /////////////////////////////////////////////////////////Finish//////////////////////////////////////////////////////////////////
-  visual_tools.prompt("Press 'next' in the RvizVisualToolsGui window to once the collision object disappears");
-
   // END_TUTORIAL
   rclcpp::shutdown();
   return 0;
